@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507611697 source:e:\pencil(project)\atm booth system\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
